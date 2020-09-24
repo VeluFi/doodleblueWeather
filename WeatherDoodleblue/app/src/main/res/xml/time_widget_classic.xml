@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/time_widget_classic"
+    android:minHeight="80dp"
+    android:minWidth="270dp"
+    android:previewImage="@drawable/widget_preview_time_classic"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen|keyguard"></appwidget-provider>
